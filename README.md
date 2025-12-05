@@ -88,7 +88,7 @@ The complete pack in one dedicated tab with organized subcategories:
 ## Architecture
 
 ```
-free-ai-credits/
+*
 │
 ├── index.html          # Single-page application (HTML + CSS + JS)
 ├── README.md           # This documentation
